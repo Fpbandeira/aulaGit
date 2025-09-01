@@ -1,2 +1,4 @@
 # aulaGit
-teste
+*teste
+*teste2
+*TESTE3
